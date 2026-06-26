@@ -1,6 +1,6 @@
 {
   "name": "thailand-tours-content-universe",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Fælles Codex-plugin til Thailand Tours tekstomskrivning, tone-of-voice og rejsetekst-kvalitet.",
   "author": {
     "name": "Thailand Tours"
@@ -25,8 +25,8 @@
     ],
     "defaultPrompt": [
       "Omskriv denne rejsetekst i Thailand Tours-stil.",
-      "Kvalitetstjek denne hoteltekst mod vores regler.",
-      "Gør teksten mere konkret uden at ændre fakta."
+      "Skriv udflugtsoutput i WordPress-format.",
+      "Kvalitetstjek denne hoteltekst mod vores regler."
     ]
   }
 }
