@@ -6,6 +6,7 @@ Plugin'et indeholder fælles skills til Thailand Tours' content-univers:
 
 - `tekstomskrivning`: fælles tone-of-voice, omskrivningsregler, forbudte formuleringer, eksempler og kvalitetstjek.
 - `hoteltekster`: WordPress/Gutenberg-output til hoteller med billedgalleri, hotel-description-block, kort, attraktioner/afstande og rejse-slider.
+- `rejser`: WordPress/Gutenberg-output til rejser og rundrejser med overblik, inkluderet-boks, kort, rejseprogram, hoteller, pris og lignende rejser.
 - `destinationer`: WordPress/Gutenberg-output til destinationssider med intro, rejsesøgning, underdestinationer, sæsonafsnit, fakta-accordions, kort og hotel-slider.
 - `udflugter`: WordPress/Gutenberg-output til udflugter med prisboks, inkluderet/ikke inkluderet, beskrivelse, dagsprogram og rejse-slider.
 
@@ -18,6 +19,7 @@ Plugin'et indeholder fælles skills til Thailand Tours' content-univers:
 - `plugins/thailand-tours-content-universe/skills/tekstomskrivning/references/quality-checklist.md`
 - `plugins/thailand-tours-content-universe/skills/destinationer/references/destination-output-format.md`
 - `plugins/thailand-tours-content-universe/skills/hoteltekster/references/hotel-output-format.md`
+- `plugins/thailand-tours-content-universe/skills/rejser/references/rejse-output-format.md`
 - `plugins/thailand-tours-content-universe/skills/udflugter/references/udflugt-output-format.md`
 
 ## Opdateringsprincip
