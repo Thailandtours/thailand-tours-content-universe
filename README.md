@@ -5,6 +5,7 @@ Dette repo er master for Thailand Tours' fælles Codex-plugin til tekstomskrivni
 Plugin'et indeholder fælles skills til Thailand Tours' content-univers:
 
 - `tekstomskrivning`: fælles tone-of-voice, omskrivningsregler, forbudte formuleringer, eksempler og kvalitetstjek.
+- `hoteltekster`: WordPress/Gutenberg-output til hoteller med billedgalleri, hotel-description-block, kort, attraktioner/afstande og rejse-slider.
 - `udflugter`: WordPress/Gutenberg-output til udflugter med prisboks, inkluderet/ikke inkluderet, beskrivelse, dagsprogram og rejse-slider.
 
 ## Det vigtigste at redigere
@@ -14,6 +15,7 @@ Plugin'et indeholder fælles skills til Thailand Tours' content-univers:
 - `plugins/thailand-tours-content-universe/skills/tekstomskrivning/references/examples-before-after.md`
 - `plugins/thailand-tours-content-universe/skills/tekstomskrivning/references/banned-patterns.md`
 - `plugins/thailand-tours-content-universe/skills/tekstomskrivning/references/quality-checklist.md`
+- `plugins/thailand-tours-content-universe/skills/hoteltekster/references/hotel-output-format.md`
 - `plugins/thailand-tours-content-universe/skills/udflugter/references/udflugt-output-format.md`
 
 ## Opdateringsprincip
