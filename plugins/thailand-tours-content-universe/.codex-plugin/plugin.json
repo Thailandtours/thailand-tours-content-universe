@@ -1,0 +1,32 @@
+{
+  "name": "thailand-tours-content-universe",
+  "version": "1.0.0",
+  "description": "Fælles Codex-plugin til Thailand Tours tekstomskrivning, tone-of-voice og rejsetekst-kvalitet.",
+  "author": {
+    "name": "Thailand Tours"
+  },
+  "repository": "https://github.com/Thailandtours/thailand-tours-content-universe",
+  "keywords": [
+    "content",
+    "rewriting",
+    "travel",
+    "tone-of-voice",
+    "thailand-tours"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Thailand Tours Content Universe",
+    "shortDescription": "Omskriv rejsetekster i fælles Thailand Tours tone-of-voice.",
+    "longDescription": "Fælles Codex-plugin til omskrivning og kvalitetssikring af hoteltekster, destinationstekster, landesider og praktisk rejseinformation for Thailand Tours.",
+    "developerName": "Thailand Tours",
+    "category": "Writing",
+    "capabilities": [
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Omskriv denne rejsetekst i Thailand Tours-stil.",
+      "Kvalitetstjek denne hoteltekst mod vores regler.",
+      "Gør teksten mere konkret uden at ændre fakta."
+    ]
+  }
+}

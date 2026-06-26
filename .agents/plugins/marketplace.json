@@ -1,0 +1,20 @@
+{
+  "name": "thailand-tours",
+  "interface": {
+    "displayName": "Thailand Tours"
+  },
+  "plugins": [
+    {
+      "name": "thailand-tours-content-universe",
+      "source": {
+        "source": "local",
+        "path": "./plugins/thailand-tours-content-universe"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Writing"
+    }
+  ]
+}

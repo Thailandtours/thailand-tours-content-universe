@@ -37,3 +37,4 @@ Plugin-kilden ligger her:
 ```text
 plugins/thailand-tours-content-universe/
 ```
+
