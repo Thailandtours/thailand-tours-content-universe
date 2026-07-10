@@ -11,7 +11,7 @@
         "path": "./plugins/thailand-tours-content-universe"
       },
       "policy": {
-        "installation": "AVAILABLE",
+        "installation": "INSTALLED_BY_DEFAULT",
         "authentication": "ON_INSTALL"
       },
       "category": "Writing"

@@ -16,6 +16,7 @@ Plugin'et indeholder fælles skills til Thailand Tours' content-univers:
 - `plugins/thailand-tours-content-universe/skills/tekstomskrivning/references/rewrite-rules.md`
 - `plugins/thailand-tours-content-universe/skills/tekstomskrivning/references/examples-before-after.md`
 - `plugins/thailand-tours-content-universe/skills/tekstomskrivning/references/banned-patterns.md`
+- `plugins/thailand-tours-content-universe/skills/tekstomskrivning/references/hotel-source-policy.md`
 - `plugins/thailand-tours-content-universe/skills/tekstomskrivning/references/quality-checklist.md`
 - `plugins/thailand-tours-content-universe/skills/destinationer/references/destination-output-format.md`
 - `plugins/thailand-tours-content-universe/skills/hoteltekster/references/hotel-output-format.md`
@@ -47,3 +48,25 @@ Plugin-kilden ligger her:
 ```text
 plugins/thailand-tours-content-universe/
 ```
+
+## Installation for Thailand Tours-teamet
+
+Kør dette én gang for at tilføje Thailand Tours marketplace i Codex:
+
+```bash
+codex plugin marketplace add https://github.com/Thailandtours/thailand-tours-content-universe.git --ref main
+codex plugin add thailand-tours-content-universe@thailand-tours
+```
+
+Start derefter en ny Codex-tråd, så de installerede skills bliver indlæst.
+
+## Opdatering for teamet
+
+Når plugin'et er opdateret på GitHub, kan teamet hente seneste version sådan:
+
+```bash
+codex plugin marketplace upgrade thailand-tours
+codex plugin add thailand-tours-content-universe@thailand-tours
+```
+
+Start en ny Codex-tråd efter opdatering.

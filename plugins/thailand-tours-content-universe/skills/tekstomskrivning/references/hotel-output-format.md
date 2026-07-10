@@ -76,3 +76,21 @@ Bevar altid:
 - Factual tail efter brødteksten, hvis den findes.
 
 Omskriv ikke fakta til noget mere salgbart, hvis det ændrer betydningen.
+
+## Kilder ved hoteloutput
+
+Følg altid `hotel-source-policy.md` ved hoteloutput, især ved batcharbejde.
+
+Kort fortalt:
+
+- Brug hotellets egen side og Expedia til faktatjek.
+- Brug Expedia som billedkilde til hotelgalleriet.
+- Download minimum 20 egnede Expedia-billeder, når de findes.
+- Behandl Expedia og aftalte leverandører som godkendte billedleverandører med brugsret for Thailand Tours.
+- Upload billeder til WordPress-mediebiblioteket, når WP-adgang er tilgængelig.
+- Udfyld dansk SEO-metadata: filnavn, titel, alt-tekst, caption ved behov og description med kilde.
+- Fravælg billeder med synlige ansigter eller personer i fokus, hvor det er muligt.
+- Brug etablerede rejsebureauer som sekundære kilder til forståelse og positionering.
+- Brug ikke Trustpilot eller Booking.com som faktakilder.
+- Spring hotellet over i batch, hvis teksten eller datafelterne allerede indeholder Thailand Tours-link.
+- Skriv kun draft ved API-arbejde, og marker kildekonflikter til review.
