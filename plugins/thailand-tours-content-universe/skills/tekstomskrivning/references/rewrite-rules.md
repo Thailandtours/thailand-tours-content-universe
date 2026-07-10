@@ -27,6 +27,25 @@
 6. Slut med en klar anbefaling.
 7. Kør kvalitetstjek.
 
+## Hotelkilder og batcharbejde
+
+Ved hoteltekster skal `hotel-source-policy.md` følges.
+
+Arbejd altid sådan ved hoteller:
+
+1. Tjek om hotellet allerede har Thailand Tours-link i tekst, kildefelter eller websitefelter.
+2. Hvis Thailand Tours-link findes, spring hotellet over i batch, medmindre brugeren eksplicit beder om netop det hotel.
+3. Brug hotellets egen side som primær kilde.
+4. Brug Expedia til faktatjek af faciliteter, services og værelsesfaciliteter.
+5. Brug Expedia som billedkilde til hotelgalleriet, og download minimum 20 egnede Expedia-billeder, når de findes.
+6. Fravælg billeder med synlige ansigter eller personer i fokus, hvor det er muligt.
+7. Behandl Expedia og aftalte leverandører som godkendte billedleverandører med brugsret for Thailand Tours.
+8. Upload billeder til WordPress-mediebiblioteket, når WP-adgang er tilgængelig, og udfyld dansk SEO-metadata.
+9. Brug etablerede rejsebureauer som C&C Travel, Solfaktor, Unique Travel, Jysk Rejsebureau og lignende som sekundære kilder til positionering, målgruppe og praktisk forståelse.
+10. Brug ikke Trustpilot eller Booking.com som faktakilder.
+11. Skriv usikre eller modstridende oplysninger i `fact_check.needs_review`.
+12. Ved API-arbejde skrives tekst, metadata og galleri kun som draft.
+
 ## Hoteltekst
 
 Hoteltekster skal typisk have:
