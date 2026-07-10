@@ -22,6 +22,7 @@ Læs kun det nødvendige:
 - `references/rewrite-rules.md` for arbejdsgang og bevaringsregler.
 - `references/banned-patterns.md` for formuleringer der skal undgås.
 - `references/quality-checklist.md` før aflevering, især ved større batches.
+- `references/hotel-source-policy.md` for hotelkilder, Expedia-faktatjek, billedvalg og batchregler.
 - `references/hotel-output-format.md` for hotelstruktur.
 - `references/hotel-template.md` som skabelon til ny hoteltekst.
 - `references/examples-before-after.md` for konkrete omskrivningsmønstre.
@@ -35,6 +36,20 @@ Læs kun det nødvendige:
 5. Brug korte og lange sætninger i bevidst rytme.
 6. Tilføj rådgivning: hvem passer det til, hvornår skal man vælge noget andet, hvad misforstår gæster ofte.
 7. Kontrollér til sidst for forbudte mønstre, `du`-form, tankestreger og ændrede fakta. Ved større opgaver bruges `references/quality-checklist.md`.
+
+## Særligt for hotelkilder og batches
+
+Ved hoteltekster og hotelmetadata skal `references/hotel-source-policy.md` bruges.
+
+Kort regel:
+
+- Brug hotellets egen side og Expedia som primære faktakilder.
+- Brug Expedia som billedleverandør, download minimum 20 egnede billeder, og upload dem til WordPress med dansk SEO-metadata, når WP-adgang er tilgængelig.
+- Expedia og aftalte leverandører behandles som godkendte billedleverandører med brugsret for Thailand Tours.
+- Brug etablerede rejsebureauer som C&C Travel, Solfaktor, Unique Travel, Jysk Rejsebureau og lignende som sekundære kilder.
+- Brug ikke Trustpilot eller Booking.com som faktakilder.
+- Spring hoteller over i batch, hvis de allerede har Thailand Tours-link eller Thailand Tours-domæne i tekst, kildefelter eller websitefelter.
+- Skriv altid draft-first ved batch: tekst, proposed metadata og galleri må ikke ændre live hoteldata direkte.
 
 ## Særligt for landesider og indrejsekrav
 
