@@ -16,6 +16,12 @@ Brug denne tjekliste før aflevering af omskrevne rejsetekster. Den er især vig
 - Hotelnavne, destinationsnavne, lande, adresser og koordinater er ikke ændret.
 - Ratings, antal værelser, værelsestyper, faciliteter og afstande er bevaret.
 - Der er ikke tilføjet nye faciliteter, services eller claims uden kilde.
+- Hotellets egen side er brugt som primær kilde ved hoteltekster, når den findes.
+- Expedia er brugt til faktatjek af faciliteter og services ved hoteltekster, når den findes.
+- Expedia er brugt som billedkilde til hotelgalleriet, når hotellet findes på Expedia.
+- Expedia og aftalte leverandører behandles som godkendte billedleverandører med brugsret for Thailand Tours.
+- Relevante rejsebureau-kilder er brugt som sekundære kilder, ikke som tekst der kopieres.
+- Trustpilot og Booking.com er ikke brugt som faktakilder.
 - Afstande og transporttider er skrevet med `ca.`, hvis de ikke er kildeverificeret.
 - Usikre oplysninger er markeret som noget der skal verificeres, ikke skrevet som fakta.
 
@@ -42,9 +48,19 @@ Brug denne tjekliste før aflevering af omskrevne rejsetekster. Den er især vig
 
 ## 6. Hoteltekster
 
+- Hotellet er ikke batch-omskrevet, hvis det allerede har Thailand Tours-link, medmindre brugeren bad om det.
 - Introen forklarer hotellets klare rolle.
 - Værelsesafsnit forklarer forskel på kategorier uden at opfinde facts.
 - Pool, strand, spa, mad og børn/familie nævnes kun, hvis kilden understøtter det.
+- Faciliteter fra live data er tjekket mod hotellets egen side og Expedia.
+- Kildekonflikter er lagt i `fact_check.needs_review`.
+- Billedgalleri har minimum 20 egnede Expedia-billeder, når Expedia har nok brugbare billeder.
+- Expedia-billeder har Expedia som `source_url` eller tydelig billedkilde.
+- Billeder med synlige ansigter eller personer i fokus er fravalgt, hvor det er muligt.
+- Billeder er downloadet og uploadet til WordPress-mediebiblioteket, når WP-adgang er tilgængelig.
+- WordPress `media_id`, endelig fil-URL, upload-sti, original `source_url`, billedtype og alt-tekst er registreret.
+- Filnavne, titler, alt-tekster og beskrivelser er skrevet SEO-klart på dansk.
+- Billedgalleri bruger Expedia/officielle hotel-/rejsebureau-URL'er, og ikke Booking.com eller Trustpilot.
 - Slutningen har en klar `Vælg {hotelnavn} hvis...`-vurdering, når formatet tillader det.
 
 ## 7. Destinationer og lande

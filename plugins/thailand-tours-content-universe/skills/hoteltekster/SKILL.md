@@ -22,6 +22,7 @@ Læs kun det nødvendige:
 - `../tekstomskrivning/references/tone-of-voice.md` for Thailand Tours-stemmen.
 - `../tekstomskrivning/references/rewrite-rules.md` for bevaringsregler.
 - `../tekstomskrivning/references/banned-patterns.md` for fraser, tegn og tiltale der skal undgås.
+- `../tekstomskrivning/references/hotel-source-policy.md` for hotelkilder, Expedia-faktatjek, billedvalg og batchregler.
 - `../tekstomskrivning/references/quality-checklist.md` før aflevering ved større eller publiceringsklar tekst.
 
 ## Arbejdsgang
@@ -32,7 +33,9 @@ Læs kun det nødvendige:
 4. Brug `I`, `jer` og `jeres`. Omskriv `du`, `dig`, `din`, `dit` og `dine` i kundevendt prosa.
 5. Gør hotellet konkret: beliggenhed, strand/by/ro, værelsestyper, mad, pool/spa, målgruppe, fravalg og praktiske forbehold.
 6. Bevar fakta om hotelnavn, antal værelser, værelsestyper, m2, kapacitet, faciliteter, afstande, koordinater og destination.
-7. Kør slutkontrol for ændrede fakta, forbudte fraser, `du`-form og tankestreger.
+7. Brug hotellets egen side og Expedia som primære faktakilder. Brug etablerede rejsebureauer som sekundære kilder, og brug ikke Trustpilot eller Booking.com.
+8. Ved batch skal hoteller med Thailand Tours-link springes over, medmindre brugeren eksplicit beder om dem.
+9. Kør slutkontrol for ændrede fakta, forbudte fraser, `du`-form og tankestreger.
 
 ## Done-kriterier
 
@@ -43,5 +46,6 @@ Hoteloutput er færdigt, når:
 - Kort og attraktioner/afstande er bevaret eller tydeligt markeret til verificering.
 - Værelsesafsnit forklarer forskelle uden at opfinde fakta.
 - Teksten hjælper kunden med både at vælge og fravælge hotellet.
+- Kilder, source URLs og usikre fakta er dokumenteret i fact_check ved draftarbejde.
 - Der er ingen `du/dig/din/dit/dine` i kundevendt prosa.
 - Der er ingen em dash eller en dash.
