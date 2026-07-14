@@ -70,7 +70,15 @@ Brug denne tjekliste før aflevering af omskrevne rejsetekster. Den er især vig
 - Indrejse, visum, vaccinationer, turistgebyrer, pasregler og nødnumre tjekkes mod aktuelle officielle kilder.
 - Regler beskrives med forbehold om, at de kan ændre sig før afrejse.
 
-## 8. Slutkontrol
+## 8. Rejser
+
+- Rejsetekster er skrevet konsekvent til `I`, `jer` og `jeres`.
+- Overblik, dagsprogram, hotelafsnit, prisnær tekst og lignende rejser bruger ikke `du`, `dig`, `din`, `dit` eller `dine`.
+- Rejsens rækkefølge, tempo, antal dage, antal nætter og transfer er forklaret konkret.
+- Det er tydeligt, hvad der er inkluderet, og hvad der blot er anbefalinger eller muligheder på egen hånd.
+- Rejsen hjælper kunden med at vælge og fravælge ud fra tempo, skift, strandtid, byliv, natur og praktiske forbehold.
+
+## 9. Slutkontrol
 
 - Læs første og sidste afsnit højt. De skal lyde som samme brand.
 - Søg efter `du`, `dig`, `din`, `dit`, `dine`, `—`, `–` og de forbudte fraser.

@@ -30,10 +30,37 @@ Læs kun det nødvendige:
 2. Bevar WordPress-kommentarer, group ids, class names, block ids, custom blocks, shortcodes, billeddata, hotel-id'er, prisblokke, sliders og placeholders.
 3. Bevar tekniske felter i `pan/trip-day-block`, især `blockId`, `durationDays`, `headline`, `recommendations`, `mediaID`, `mediaPreviewURL` og `hotelID`.
 4. Udfyld eller omskriv kun kundevendt tekst: overblik, anbefaling, inkluderet-liste, korttekst, dagsprogram, hoteltekst, prisnær tekst og lignende rejser.
-5. Brug `I`, `jer` og `jeres`. Omskriv `du`, `dig`, `din`, `dit` og `dine` i kundevendt prosa.
+5. Skriv altid kundevendt rejsetekst i flertal med `I`, `jer` og `jeres`. Omskriv `du`, `dig`, `din`, `dit` og `dine` i al kundevendt prosa.
 6. Gør rejsen konkret: rækkefølge, antal nætter, transfer, tempo, oplevelser, strand/by/natur, hvem rejsen passer til og praktiske forbehold.
 7. Ved fly, indrejse, visum, sundhed, sikkerhed og aktuelle regler skal officielle kilder tjekkes, før teksten afleveres som fakta.
 8. Kør slutkontrol for ændrede fakta, forbudte fraser, `du`-form, tankestreger og ukontrollerede tidsfølsomme oplysninger.
+
+## Tiltale i rejser
+
+Rejser skal altid skrives til et rejseselskab, par eller familie. Brug derfor flertalsformen konsekvent, også når kilden er skrevet i ental.
+
+Omskriv især:
+
+- `du oplever` til `I oplever`
+- `du får` til `I får`
+- `din rejse` til `jeres rejse`
+- `dit hotel` til `jeres hotel`
+- `dine dage` til `jeres dage`
+- `du kan vælge` til `I kan vælge`
+
+Gode rejseformuleringer:
+
+- `I begynder rejsen i Bangkok, hvor tempoet er højt, før dagene bliver roligere mod stranden.`
+- `Rejsen passer især til jer, der vil have en tydelig rute uden at skifte hotel for ofte.`
+- `Hvis I ønsker mere strandtid og færre skift, bør programmet kortes ned eller justeres.`
+
+Undgå i kundevendt output:
+
+- `Du begynder rejsen i Bangkok.`
+- `Din rejse slutter ved stranden.`
+- `Her kan du vælge mellem flere hoteller.`
+
+Hvis der findes `du`, `dig`, `din`, `dit` eller `dine` i færdigt rejseoutput, er outputtet ikke klar til aflevering.
 
 ## Done-kriterier
 
@@ -44,6 +71,7 @@ Rejseoutput er færdigt, når:
 - Links, block ids, image ids, hotel ids, slider ids, prisrækker og custom blocks er bevaret.
 - Rejseprogrammet har tydelig rækkefølge, tempo og praktisk logik.
 - Kunden forstår hvem rejsen passer til, og hvad de vigtigste valg/fravalg er.
-- Der er ingen `du/dig/din/dit/dine` i kundevendt prosa.
+- Kundevendt prosa bruger konsekvent `I`, `jer` og `jeres`.
+- Der er ingen `du/dig/din/dit/dine` i kundevendt prosa, heller ikke i overblik, dagsprogram, hotelafsnit, prisnær tekst eller lignende rejser.
 - Der er ingen em dash eller en dash.
 - Tidsfølsomme fakta er verificeret eller markeret til verificering.

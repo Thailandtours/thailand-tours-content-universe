@@ -2,6 +2,8 @@
 
 Rejsetekster skrives som WordPress/Gutenberg-output. Strukturen bruges til rejser, rundrejser, kombinationsrejser og pakkerejser.
 
+Alle kundevendte rejsetekster skal skrives i flertal med `I`, `jer` og `jeres`. Dette gælder overblik, anbefalinger, inkluderet-tekst, korttekst, dagsprogram, hotelafsnit, prisnær tekst og lignende rejser. Brug ikke `du`, `dig`, `din`, `dit` eller `dine` i kundevendt rejseoutput.
+
 En rejse har typisk:
 
 1. Overblik.
@@ -40,6 +42,19 @@ Overblikket skal:
 - Nævne de vigtigste destinationer i korrekt rækkefølge.
 - Slutte med en tydelig anbefaling, hvis kilden bruger formatet `Vi vil anbefale jer denne rejse, hvis...`.
 - Bruge `I`, `jer` og `jeres`, ikke `du`.
+- Omskrive entalsformuleringer som `din rejse`, `dit program` og `du oplever` til `jeres rejse`, `jeres program` og `I oplever`.
+
+God overblikstone:
+
+```html
+<p class="has-text-align-center">I begynder rejsen i Bangkok, fortsætter mod roligere dage ved floden og slutter med strandtid, hvor tempoet falder. Rejsen passer især til jer, der vil kombinere by, natur og strand uden at miste overblikket undervejs.</p>
+```
+
+Undgå:
+
+```html
+<p class="has-text-align-center">Du begynder rejsen i Bangkok, før din rejse slutter ved stranden.</p>
+```
 
 ## 2. Inkluderet-boks og prisvisning
 
@@ -128,6 +143,7 @@ Rejseprogrammet skal:
 - Beskrive oplevelser konkret uden at love bestemte oplevelser, hvis de ikke er inkluderet.
 - Skelne mellem inkluderet program, anbefalinger og muligheder på egen hånd.
 - Give kunden fornemmelse af tempo, variation og hvorfor hvert stop er med.
+- Skrive alle dagsblokke i flertal: `I ankommer`, `I fortsætter`, `jeres hotel`, `jeres dage`, `I kan vælge`.
 
 ## 5. Typiske dagsblokke
 
@@ -196,6 +212,8 @@ Bevar:
 
 Teksten skal forklare, at hoteller kan tilpasses, hvis det er korrekt for rejsen.
 
+Skriv hotelafsnittet til `I` og `jeres`, ikke som `dit hotel` eller `din rejse`.
+
 ## 8. Prisblok
 
 Prisområdet har normalt:
@@ -259,6 +277,28 @@ Bevar altid trustbar-blokken, hvis den findes:
 - Kundevendte hotel- og prisafsnit.
 - `du`-form til `I`/`jer`/`jeres`.
 
+## Tiltaleeksempler
+
+Omskriv ental til flertal konsekvent:
+
+- `du oplever Bangkok` til `I oplever Bangkok`
+- `din rejse begynder` til `jeres rejse begynder`
+- `dit hotel ligger` til `jeres hotel ligger`
+- `dine dage ved stranden` til `jeres dage ved stranden`
+- `du kan vælge ekstra udflugter` til `I kan vælge ekstra udflugter`
+
+God rådgivende rejseform:
+
+```html
+<p>Rejsen passer især til jer, der vil have en tydelig rute med tid til både storby, natur og strand. Hvis I hellere vil blive længere hvert sted, bør antallet af stop justeres.</p>
+```
+
+Ikke:
+
+```html
+<p>Rejsen passer til dig, der vil opleve både storby, natur og strand på din ferie.</p>
+```
+
 ## Kvalitetstjek for rejser
 
 - Er Gutenberg-strukturen stadig intakt?
@@ -268,6 +308,7 @@ Bevar altid trustbar-blokken, hvis den findes:
 - Er transfer og tempo forklaret konkret?
 - Er det tydeligt, hvad der er inkluderet, og hvad der blot er forslag?
 - Er der tydelig rådgivning om hvem rejsen passer til?
-- Er alle `du/dig/din/dit/dine` omskrevet?
+- Bruger alle kundevendte afsnit `I`, `jer` og `jeres`?
+- Er alle `du/dig/din/dit/dine` omskrevet, også i overblik, dagsprogram, hotelafsnit, prisnær tekst og lignende rejser?
 - Er der ingen `—` eller `–`?
 - Er fly, indrejse, visum, sundhed, sikkerhed og aktuelle regler verificeret eller markeret til verificering?
