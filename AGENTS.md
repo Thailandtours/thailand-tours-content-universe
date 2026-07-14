@@ -18,7 +18,6 @@ Dette repo er master for Thailand Tours' fælles Codex-plugin til tekstomskrivni
 ## Sprog og stil
 
 - Skriv på dansk med varm, konkret og rådgivende rejsebureaustemme.
-- Brug `I`, `jer` og `jeres` som direkte kundetiltale. Undgå `du`, `dig`, `din`, `dit` og `dine`.
+- Brug `du`, `dig`, `din`, `dit` og `dine` som direkte kundetiltale. Undgå `I`, `jer` og `jeres` i kundevendt prosa.
 - Brug ikke tankestreger af typen `—` eller `–` i kundevendt tekst.
 - Bevar fakta, metadata, hotelnavne, adresser, afstande, features og faciliteter.
-

@@ -59,7 +59,7 @@ God afsnitsform:
 
 ```html
 <!-- wp:paragraph -->
-<p><strong>Strand foran, jungle bagved</strong><br>I får en rolig base, hvor stranden er tæt på hverdagen, men hvor hotellet stadig føles trukket tilbage fra øens mere travle områder.</p>
+<p><strong>Strand foran, jungle bagved</strong><br>Du får en rolig base, hvor stranden er tæt på hverdagen, men hvor hotellet stadig føles trukket tilbage fra øens mere travle områder.</p>
 <!-- /wp:paragraph -->
 ```
 
@@ -160,7 +160,7 @@ Overskriften kan omskrives, hvis den skal passe til destinationen:
 - Fede mellemoverskrifter inde i brødteksten.
 - Forklaring af værelsestyper.
 - Attraktionsbeskrivelser, hvis de er generiske eller uklare.
-- `du`-form til `I`/`jer`/`jeres`.
+- `I`/`jer`/`jeres`-form til `du`/`dig`/`din`.
 
 ## Kvalitetstjek for hoteller
 
@@ -169,6 +169,6 @@ Overskriften kan omskrives, hvis den skal passe til destinationen:
 - Er hotelnavn, værelsesnavne, m2, afstande og faciliteter uændrede?
 - Starter teksten konkret, ikke som en generisk hotelannonce?
 - Forklarer teksten hvem hotellet passer til, og hvem det ikke passer til?
-- Er alle `du/dig/din/dit/dine` omskrevet?
+- Er alle `I/jer/jeres` som direkte kundetiltale omskrevet?
 - Er der ingen `—` eller `–`?
 - Er usikre afstande eller facts markeret til verificering?

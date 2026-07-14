@@ -37,7 +37,7 @@ Introen skal:
 - Starte konkret og rådgivende.
 - Forklare hvorfor destinationen er værd at vælge.
 - Undgå generiske paradisfraser.
-- Bruge `I`, `jer` og `jeres`, ikke `du`.
+- Bruge `du`, `dig`, `din`, `dit` og `dine`, ikke `I`, `jer` eller `jeres` som direkte kundetiltale.
 
 ## 2. Rejsesøgning
 
@@ -279,7 +279,7 @@ Bevar altid de afsluttende blokke, hvis de findes:
 - Accordion-tekst.
 - Kortforklaring.
 - Hotel- og pakkerejsetekst.
-- `du`-form til `I`/`jer`/`jeres`.
+- `I`/`jer`/`jeres`-form til `du`/`dig`/`din`.
 
 ## Kvalitetstjek for destinationer
 
@@ -289,6 +289,6 @@ Bevar altid de afsluttende blokke, hvis de findes:
 - Er links bevaret?
 - Er destinationens zoner, sæson og praktiske logistik forklaret konkret?
 - Er der tydelig rådgivning om hvem destinationen passer til?
-- Er alle `du/dig/din/dit/dine` omskrevet?
+- Er alle `I/jer/jeres` som direkte kundetiltale omskrevet?
 - Er der ingen `—` eller `–`?
 - Er visum, sundhed, sikkerhed og aktuelle regler verificeret eller markeret til verificering?

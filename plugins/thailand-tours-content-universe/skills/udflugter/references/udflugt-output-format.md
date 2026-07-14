@@ -70,12 +70,12 @@ Introen skal:
 - Starte konkret med turens rytme, afgang, landskab, transport eller første oplevelse.
 - Forklare hvad turen giver i praksis.
 - Nævne varighed og tempo, hvis det er relevant.
-- Bruge `I`, `jer` og `jeres`, ikke `du`.
+- Bruge `du`, `dig`, `din`, `dit` og `dine`, ikke `I`, `jer` eller `jeres` som direkte kundetiltale.
 
 God retning:
 
 ```markdown
-I bliver hentet tidligt, så Bangkok kan slippe sit greb, mens landskabet åbner sig mod kanaler, flod og jungle.
+Du bliver hentet tidligt, så Bangkok kan slippe sit greb, mens landskabet åbner sig mod kanaler, flod og jungle.
 ```
 
 Undgå:
@@ -125,7 +125,7 @@ Bevar `blockId`, hvis outputtet bygger på en eksisterende side.
 - Dagsprogram.
 - Generiske beskrivelser.
 - Uklare praktiske forklaringer.
-- `du`-form til `I`/`jer`/`jeres`.
+- `I`/`jer`/`jeres`-form til `du`/`dig`/`din`.
 
 ## Kvalitetstjek for udflugter
 
@@ -134,6 +134,6 @@ Bevar `blockId`, hvis outputtet bygger på en eksisterende side.
 - Er dagsprogrammet i rigtig rækkefølge?
 - Er tempo, transport og måltider forståelige?
 - Er tonen rådgivende og konkret?
-- Er alle `du/dig/din/dit/dine` omskrevet?
+- Er alle `I/jer/jeres` som direkte kundetiltale omskrevet?
 - Er der ingen `—` eller `–`?
 - Er usikre tider/priser markeret til verificering?

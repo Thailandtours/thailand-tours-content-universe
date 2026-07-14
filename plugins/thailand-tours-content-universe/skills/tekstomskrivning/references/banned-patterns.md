@@ -23,10 +23,10 @@ Undgå:
 
 I stedet for `hotellet tilbyder`:
 
-- `I finder`
+- `Du finder`
 - `Hotellet har`
-- `Her får I`
-- `I kan vælge`
+- `Her får du`
+- `Du kan vælge`
 - `Rammerne er`
 - `Det betyder i praksis`
 
@@ -53,7 +53,7 @@ Brug ikke gentagne robotformler:
 
 - `Med sin beliggenhed...`
 - `Dette hotel er det perfekte valg...`
-- `Uanset om I ønsker...`
+- `Uanset om du ønsker...`
 - `Der er rig mulighed for...`
 - `Her venter...`
 
@@ -78,19 +78,19 @@ Skriv i stedet:
 
 ## Pronomen
 
-Forbudt i kundevendt prosa:
+Forbudt som direkte kundetiltale i kundevendt prosa:
+
+- `I`
+- `jer`
+- `jeres`
+
+Tilladt:
 
 - `du`
 - `dig`
 - `din`
 - `dit`
 - `dine`
-
-Tilladt:
-
-- `I`
-- `jer`
-- `jeres`
 
 Undtagelse:
 

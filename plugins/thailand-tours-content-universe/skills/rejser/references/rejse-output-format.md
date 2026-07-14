@@ -2,7 +2,7 @@
 
 Rejsetekster skrives som WordPress/Gutenberg-output. Strukturen bruges til rejser, rundrejser, kombinationsrejser og pakkerejser.
 
-Alle kundevendte rejsetekster skal skrives i flertal med `I`, `jer` og `jeres`. Dette gælder overblik, anbefalinger, inkluderet-tekst, korttekst, dagsprogram, hotelafsnit, prisnær tekst og lignende rejser. Brug ikke `du`, `dig`, `din`, `dit` eller `dine` i kundevendt rejseoutput.
+Alle kundevendte rejsetekster skal skrives i `du`-form med `du`, `dig`, `din`, `dit` og `dine`. Dette gælder overblik, anbefalinger, inkluderet-tekst, korttekst, dagsprogram, hotelafsnit, prisnær tekst og lignende rejser. Brug ikke `I`, `jer` eller `jeres` som direkte kundetiltale i kundevendt rejseoutput.
 
 En rejse har typisk:
 
@@ -40,20 +40,20 @@ Overblikket skal:
 - Forklare rejsens rute og logik.
 - Gøre tempo, kombination og målgruppe tydelig.
 - Nævne de vigtigste destinationer i korrekt rækkefølge.
-- Slutte med en tydelig anbefaling, hvis kilden bruger formatet `Vi vil anbefale jer denne rejse, hvis...`.
-- Bruge `I`, `jer` og `jeres`, ikke `du`.
-- Omskrive entalsformuleringer som `din rejse`, `dit program` og `du oplever` til `jeres rejse`, `jeres program` og `I oplever`.
+- Slutte med en tydelig anbefaling, hvis kilden bruger formatet `Vi vil anbefale dig denne rejse, hvis...`.
+- Bruge `du`, `dig`, `din`, `dit` og `dine`, ikke `I`, `jer` eller `jeres` som direkte kundetiltale.
+- Omskrive flertalsformuleringer som `jeres rejse`, `jeres program` og `I oplever` til `din rejse`, `dit program` og `du oplever`.
 
 God overblikstone:
 
 ```html
-<p class="has-text-align-center">I begynder rejsen i Bangkok, fortsætter mod roligere dage ved floden og slutter med strandtid, hvor tempoet falder. Rejsen passer især til jer, der vil kombinere by, natur og strand uden at miste overblikket undervejs.</p>
+<p class="has-text-align-center">Du begynder rejsen i Bangkok, fortsætter mod roligere dage ved floden og slutter med strandtid, hvor tempoet falder. Rejsen passer især til dig, der vil kombinere by, natur og strand uden at miste overblikket undervejs.</p>
 ```
 
 Undgå:
 
 ```html
-<p class="has-text-align-center">Du begynder rejsen i Bangkok, før din rejse slutter ved stranden.</p>
+<p class="has-text-align-center">I begynder rejsen i Bangkok, før jeres rejse slutter ved stranden.</p>
 ```
 
 ## 2. Inkluderet-boks og prisvisning
@@ -143,7 +143,7 @@ Rejseprogrammet skal:
 - Beskrive oplevelser konkret uden at love bestemte oplevelser, hvis de ikke er inkluderet.
 - Skelne mellem inkluderet program, anbefalinger og muligheder på egen hånd.
 - Give kunden fornemmelse af tempo, variation og hvorfor hvert stop er med.
-- Skrive alle dagsblokke i flertal: `I ankommer`, `I fortsætter`, `jeres hotel`, `jeres dage`, `I kan vælge`.
+- Skrive alle dagsblokke i `du`-form: `du ankommer`, `du fortsætter`, `dit hotel`, `dine dage`, `du kan vælge`.
 
 ## 5. Typiske dagsblokke
 
@@ -212,7 +212,7 @@ Bevar:
 
 Teksten skal forklare, at hoteller kan tilpasses, hvis det er korrekt for rejsen.
 
-Skriv hotelafsnittet til `I` og `jeres`, ikke som `dit hotel` eller `din rejse`.
+Skriv hotelafsnittet til `du` og `din`, ikke som `jeres hotel` eller `jeres rejse`.
 
 ## 8. Prisblok
 
@@ -275,28 +275,28 @@ Bevar altid trustbar-blokken, hvis den findes:
 - Tekst under kort.
 - Dagsprogrammer.
 - Kundevendte hotel- og prisafsnit.
-- `du`-form til `I`/`jer`/`jeres`.
+- `I`/`jer`/`jeres`-form til `du`/`dig`/`din`.
 
 ## Tiltaleeksempler
 
-Omskriv ental til flertal konsekvent:
+Omskriv flertal til `du`-form konsekvent:
 
-- `du oplever Bangkok` til `I oplever Bangkok`
-- `din rejse begynder` til `jeres rejse begynder`
-- `dit hotel ligger` til `jeres hotel ligger`
-- `dine dage ved stranden` til `jeres dage ved stranden`
-- `du kan vælge ekstra udflugter` til `I kan vælge ekstra udflugter`
+- `I oplever Bangkok` til `du oplever Bangkok`
+- `jeres rejse begynder` til `din rejse begynder`
+- `jeres hotel ligger` til `dit hotel ligger`
+- `jeres dage ved stranden` til `dine dage ved stranden`
+- `I kan vælge ekstra udflugter` til `du kan vælge ekstra udflugter`
 
 God rådgivende rejseform:
 
 ```html
-<p>Rejsen passer især til jer, der vil have en tydelig rute med tid til både storby, natur og strand. Hvis I hellere vil blive længere hvert sted, bør antallet af stop justeres.</p>
+<p>Rejsen passer især til dig, der vil have en tydelig rute med tid til både storby, natur og strand. Hvis du hellere vil blive længere hvert sted, bør antallet af stop justeres.</p>
 ```
 
 Ikke:
 
 ```html
-<p>Rejsen passer til dig, der vil opleve både storby, natur og strand på din ferie.</p>
+<p>Rejsen passer til jer, der vil opleve både storby, natur og strand på jeres ferie.</p>
 ```
 
 ## Kvalitetstjek for rejser
@@ -308,7 +308,7 @@ Ikke:
 - Er transfer og tempo forklaret konkret?
 - Er det tydeligt, hvad der er inkluderet, og hvad der blot er forslag?
 - Er der tydelig rådgivning om hvem rejsen passer til?
-- Bruger alle kundevendte afsnit `I`, `jer` og `jeres`?
-- Er alle `du/dig/din/dit/dine` omskrevet, også i overblik, dagsprogram, hotelafsnit, prisnær tekst og lignende rejser?
+- Bruger alle kundevendte afsnit `du`, `dig`, `din`, `dit` og `dine`?
+- Er alle `I/jer/jeres` som direkte kundetiltale omskrevet, også i overblik, dagsprogram, hotelafsnit, prisnær tekst og lignende rejser?
 - Er der ingen `—` eller `–`?
 - Er fly, indrejse, visum, sundhed, sikkerhed og aktuelle regler verificeret eller markeret til verificering?
