@@ -2,6 +2,8 @@
 
 Dette repo er master for Thailand Tours' fælles Codex-plugin til tekstomskrivning.
 
+Fælles kundetiltale i pluginet er `du`, `dig`, `din`, `dit` og `dine`.
+
 Plugin'et indeholder fælles skills til Thailand Tours' content-univers:
 
 - `tekstomskrivning`: fælles tone-of-voice, omskrivningsregler, forbudte formuleringer, eksempler og kvalitetstjek.

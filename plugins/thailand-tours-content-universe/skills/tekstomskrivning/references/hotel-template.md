@@ -29,7 +29,7 @@ Brug denne skabelon til en hoteltekst, når kilden skal omskrives til den aftalt
 {Forklar hvem hotellet passer bedst til. Nævn også hvis det ikke er optimalt for bestemte behov.}
 
 **Vælg {Hotelnavn} hvis...**
-...I vil have {hotellets kerne}. Hvis I søger {andet behov}, peger {alternativ destination/hoteltype} ofte en anden vej. Men leder I efter {klar, konkret grund}, er {Hotelnavn} et stærkt valg.
+...du vil have {hotellets kerne}. Hvis du søger {andet behov}, peger {alternativ destination/hoteltype} ofte en anden vej. Men leder du efter {klar, konkret grund}, er {Hotelnavn} et stærkt valg.
 
 {BEVAR ADRESSE, AFSTANDE OG FASTE DATASEKTIONER}
 ```
@@ -38,7 +38,7 @@ Brug denne skabelon til en hoteltekst, når kilden skal omskrives til den aftalt
 
 - Én H1.
 - 4-6 fede mellemoverskrifter.
-- Ingen `du`-form.
+- Ingen `I/jer/jeres`-form som direkte kundetiltale.
 - Ingen tankestreger.
 - Ingen forbudte fraser.
 - Ingen ændrede facts.

@@ -35,7 +35,7 @@ Læs kun det nødvendige:
 4. Gør åbningen konkret og sanselig, men ikke poetisk for poetikkens skyld.
 5. Brug korte og lange sætninger i bevidst rytme.
 6. Tilføj rådgivning: hvem passer det til, hvornår skal man vælge noget andet, hvad misforstår gæster ofte.
-7. Kontrollér til sidst for forbudte mønstre, `du`-form, tankestreger og ændrede fakta. Ved større opgaver bruges `references/quality-checklist.md`.
+7. Kontrollér til sidst for forbudte mønstre, `I/jer/jeres`-form, tankestreger og ændrede fakta. Ved større opgaver bruges `references/quality-checklist.md`.
 
 ## Særligt for hotelkilder og batches
 
@@ -74,7 +74,7 @@ En omskrivning er færdig, når:
 - Fakta og metadata er bevaret.
 - Teksten kan læses højt uden at lyde som et katalog.
 - Kunden forstår forskellen på stedet og alternativerne.
-- Der er ingen `du/dig/din/dit/dine`.
+- Der er ingen `I/jer/jeres` som direkte kundetiltale i kundevendt prosa.
 - Der er ingen em dash eller en dash.
 - Der er ingen forbudte OTA-fraser.
 - Praktiske krav er forklaret forståeligt og med forbehold, hvor regler kan ændre sig.

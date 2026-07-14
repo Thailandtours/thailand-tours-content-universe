@@ -35,8 +35,8 @@ Brug denne tjekliste før aflevering af omskrevne rejsetekster. Den er især vig
 
 ## 4. Tiltale
 
-- Kundevendt tekst bruger `I`, `jer` og `jeres`.
-- Kundevendt tekst bruger ikke `du`, `dig`, `din`, `dit` eller `dine`.
+- Kundevendt tekst bruger `du`, `dig`, `din`, `dit` og `dine`.
+- Kundevendt tekst bruger ikke `I`, `jer` eller `jeres` som direkte kundetiltale.
 - Direkte citater eller låste felter må kun bevares, hvis de ikke er del af brødteksten.
 
 ## 5. Forbudte tegn og formuleringer
@@ -72,8 +72,8 @@ Brug denne tjekliste før aflevering af omskrevne rejsetekster. Den er især vig
 
 ## 8. Rejser
 
-- Rejsetekster er skrevet konsekvent til `I`, `jer` og `jeres`.
-- Overblik, dagsprogram, hotelafsnit, prisnær tekst og lignende rejser bruger ikke `du`, `dig`, `din`, `dit` eller `dine`.
+- Rejsetekster er skrevet konsekvent til `du`, `dig`, `din`, `dit` og `dine`.
+- Overblik, dagsprogram, hotelafsnit, prisnær tekst og lignende rejser bruger ikke `I`, `jer` eller `jeres` som direkte kundetiltale.
 - Rejsens rækkefølge, tempo, antal dage, antal nætter og transfer er forklaret konkret.
 - Det er tydeligt, hvad der er inkluderet, og hvad der blot er anbefalinger eller muligheder på egen hånd.
 - Rejsen hjælper kunden med at vælge og fravælge ud fra tempo, skift, strandtid, byliv, natur og praktiske forbehold.
@@ -81,6 +81,6 @@ Brug denne tjekliste før aflevering af omskrevne rejsetekster. Den er især vig
 ## 9. Slutkontrol
 
 - Læs første og sidste afsnit højt. De skal lyde som samme brand.
-- Søg efter `du`, `dig`, `din`, `dit`, `dine`, `—`, `–` og de forbudte fraser.
+- Søg efter `I`, `jer`, `jeres`, `—`, `–` og de forbudte fraser.
 - Sammenlign kilden og output for faktaændringer.
 - Markér eventuelle åbne verificeringspunkter i stedet for at skjule usikkerhed.

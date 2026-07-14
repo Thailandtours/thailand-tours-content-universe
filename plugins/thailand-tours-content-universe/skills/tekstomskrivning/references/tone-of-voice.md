@@ -10,28 +10,28 @@ Vi skriver ikke for at fylde en side. Vi skriver for at hjælpe kunden med at v�
 
 Brug:
 
-- `I`
-- `jer`
-- `jeres`
-
-Undgå:
-
 - `du`
 - `dig`
 - `din`
 - `dit`
 - `dine`
 
+Undgå:
+
+- `I`
+- `jer`
+- `jeres`
+
 Eksempel:
 
 ```markdown
-I får en rolig base tæt på stranden, men uden at bo midt i byens mest hektiske gader.
+Du får en rolig base tæt på stranden, men uden at bo midt i byens mest hektiske gader.
 ```
 
 Ikke:
 
 ```markdown
-Du får en rolig base tæt på stranden.
+I får en rolig base tæt på stranden.
 ```
 
 ## Åbninger
@@ -68,7 +68,7 @@ Skriv gerne med holdning:
 - `Vi anbefaler typisk...`
 - `I praksis betyder det...`
 - `Det er især relevant for...`
-- `Hvis I søger..., peger vi hellere mod...`
+- `Hvis du søger..., peger vi hellere mod...`
 
 Undgå kategoriske og udokumenterede superlativer:
 
@@ -84,7 +84,7 @@ Teksten må gerne gøre stedet attraktivt, men den skal også hjælpe kunden med
 God rådgivning:
 
 ```markdown
-Vælg Railay Beach, hvis I vil have strand, kalkstensklipper og en ferie uden biler. Hvis I søger mere shopping og mere aftenliv tæt på hotellet, passer Ao Nang bedre.
+Vælg Railay Beach, hvis du vil have strand, kalkstensklipper og en ferie uden biler. Hvis du søger mere shopping og mere aftenliv tæt på hotellet, passer Ao Nang bedre.
 ```
 
 ## Tegnsætning

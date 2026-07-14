@@ -97,7 +97,7 @@ Indrejsekrav skal forklares trin for trin, særligt når der er flere krav. For 
 Tjek før aflevering:
 
 - Ingen ændrede fakta.
-- Ingen `du/dig/din/dit/dine`.
+- Ingen `I/jer/jeres` som direkte kundetiltale i kundevendt prosa.
 - Ingen `—` eller `–`.
 - Ingen forbudte katalogfraser.
 - Ingen ukontrollerede visum- eller sundhedsråd.

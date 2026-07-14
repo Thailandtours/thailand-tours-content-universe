@@ -29,7 +29,7 @@
 {Afsnit med par, familier, honeymoon, ro, byliv eller alternativer.}
 
 **Vælg {Hotelnavn} hvis...**
-...I vil have {kerneoplevelse}. Hvis I søger {andet behov}, er {alternativ} ofte et bedre match. Men leder I efter {hotellets klare styrke}, hører {Hotelnavn} med på den korte liste.
+...du vil have {kerneoplevelse}. Hvis du søger {andet behov}, er {alternativ} ofte et bedre match. Men leder du efter {hotellets klare styrke}, hører {Hotelnavn} med på den korte liste.
 
 {Adresse- og afstandsblok bevares, hvis den findes}
 ```

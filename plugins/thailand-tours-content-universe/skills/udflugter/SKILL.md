@@ -29,10 +29,10 @@ Læs kun det nødvendige:
 1. Afgør om kilden er en rå tekst, et eksisterende WordPress-output eller en blanding.
 2. Bevar WordPress-kommentarer, bloktyper, class names, ids, mapster-blocks, slider-blocks, mediaId, map_id og blockId, medmindre opgaven udtrykkeligt beder om ændringer.
 3. Udfyld eller omskriv kun kundevendt tekst: overskrifter, lister, prislinjer, intro, dagsprogram og praktiske beskrivelser.
-4. Brug `I`, `jer` og `jeres`. Omskriv `du`, `dig`, `din`, `dit` og `dine` i kundevendt prosa.
+4. Brug `du`, `dig`, `din`, `dit` og `dine`. Omskriv `I`, `jer` og `jeres` i kundevendt prosa.
 5. Gør turen konkret: transport, tempo, varighed, stop, måltider, fysisk niveau, hvem turen passer til, og hvornår den ikke passer.
 6. Bevar fakta om pris, minimumsantal, måltider, inkluderede elementer, afgang, retur, destinationer, seværdigheder og praktiske forbehold.
-7. Kør slutkontrol for ændrede fakta, forbudte fraser, `du`-form og tankestreger.
+7. Kør slutkontrol for ændrede fakta, forbudte fraser, `I/jer/jeres`-form og tankestreger.
 
 ## Done-kriterier
 
@@ -42,6 +42,6 @@ Udflugtsoutput er færdigt, når:
 - Pris-, inkluderet-, ikke inkluderet- og afgangssektioner er tydelige.
 - Dagsprogrammet har logisk rækkefølge og realistisk tempo.
 - Teksten bruger Thailand Tours' rådgivende tone.
-- Der er ingen `du/dig/din/dit/dine` i kundevendt prosa.
+- Der er ingen `I/jer/jeres` som direkte kundetiltale i kundevendt prosa.
 - Der er ingen em dash eller en dash.
 - Usikre tider, priser eller praktiske forhold er markeret som noget der skal verificeres.

@@ -30,12 +30,12 @@ Læs kun det nødvendige:
 1. Afgør om kilden er rå hotelinfo, en eksisterende WordPress-blok eller en blanding.
 2. Bevar WordPress-kommentarer, block ids, custom blocks, image ids, media URLs, feature JSON, koordinater, slider ids og class names, medmindre opgaven udtrykkeligt beder om ændringer.
 3. Udfyld eller omskriv kun kundevendt tekst: hotelbeskrivelse, afsnitsoverskrifter, værelsesbeskrivelser, kort forklaring, attraktioner og afstande.
-4. Brug `I`, `jer` og `jeres`. Omskriv `du`, `dig`, `din`, `dit` og `dine` i kundevendt prosa.
+4. Brug `du`, `dig`, `din`, `dit` og `dine`. Omskriv `I`, `jer` og `jeres` i kundevendt prosa.
 5. Gør hotellet konkret: beliggenhed, strand/by/ro, værelsestyper, mad, pool/spa, målgruppe, fravalg og praktiske forbehold.
 6. Bevar fakta om hotelnavn, antal værelser, værelsestyper, m2, kapacitet, faciliteter, afstande, koordinater og destination.
 7. Brug hotellets egen side og Expedia som primære faktakilder. Brug etablerede rejsebureauer som sekundære kilder, og brug ikke Trustpilot eller Booking.com.
 8. Ved batch skal hoteller med Thailand Tours-link springes over, medmindre brugeren eksplicit beder om dem.
-9. Kør slutkontrol for ændrede fakta, forbudte fraser, `du`-form og tankestreger.
+9. Kør slutkontrol for ændrede fakta, forbudte fraser, `I/jer/jeres`-form og tankestreger.
 
 ## Done-kriterier
 
@@ -47,5 +47,5 @@ Hoteloutput er færdigt, når:
 - Værelsesafsnit forklarer forskelle uden at opfinde fakta.
 - Teksten hjælper kunden med både at vælge og fravælge hotellet.
 - Kilder, source URLs og usikre fakta er dokumenteret i fact_check ved draftarbejde.
-- Der er ingen `du/dig/din/dit/dine` i kundevendt prosa.
+- Der er ingen `I/jer/jeres` som direkte kundetiltale i kundevendt prosa.
 - Der er ingen em dash eller en dash.
