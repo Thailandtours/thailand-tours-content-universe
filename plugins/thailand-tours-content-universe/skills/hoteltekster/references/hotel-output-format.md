@@ -53,7 +53,7 @@ Hotelbeskrivelsen bør normalt indeholde:
 - Et afsnit om hotellets stemning, niveau og målgruppe.
 - Et afsnit om pool, strand, spa, mad eller aktiviteter, hvis kilden understøtter det.
 - Et tydeligt værelsesafsnit med de vigtigste kategorier.
-- En afsluttende vurdering: hvem skal vælge hotellet, og hvem bør vælge noget andet.
+- En afsluttende vurdering af hvem der får mest ud af hotellet. Et væsentligt kompromis forklares tidligere i teksten, men afslutningen sender ikke kunden videre til et andet hotel.
 
 God afsnitsform:
 
@@ -168,7 +168,8 @@ Overskriften kan omskrives, hvis den skal passe til destinationen:
 - Er billedgalleri, feature JSON, kort og slider bevaret?
 - Er hotelnavn, værelsesnavne, m2, afstande og faciliteter uændrede?
 - Starter teksten konkret, ikke som en generisk hotelannonce?
-- Forklarer teksten hvem hotellet passer til, og hvem det ikke passer til?
+- Forklarer teksten hotellets klare match og væsentlige kompromis uden at sælge kunden videre?
+- Slutter teksten på hotellets positive rolle for den rette gæst?
 - Er alle `I/jer/jeres` som direkte kundetiltale omskrevet?
 - Er der ingen `—` eller `–`?
 - Er usikre afstande eller facts markeret til verificering?

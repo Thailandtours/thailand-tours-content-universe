@@ -34,8 +34,9 @@ Læs kun det nødvendige:
 3. Omskriv kun den læsbare prosa, medmindre opgaven siger noget andet.
 4. Gør åbningen konkret og sanselig, men ikke poetisk for poetikkens skyld.
 5. Brug korte og lange sætninger i bevidst rytme.
-6. Tilføj rådgivning: hvem passer det til, hvornår skal man vælge noget andet, hvad misforstår gæster ofte.
-7. Kontrollér til sidst for forbudte mønstre, `I/jer/jeres`-form, tankestreger og ændrede fakta. Ved større opgaver bruges `references/quality-checklist.md`.
+6. Tilføj rådgivning: hvem passer det til, hvilket væsentligt kompromis skal kunden kende, og hvad misforstår gæster ofte.
+7. Ved en selvstændig hoteltekst placeres kompromiset inde i brødteksten. Slut med hotellets positive match og anbefal ikke et andet hotel eller område, medmindre opgaven udtrykkeligt er en sammenligning.
+8. Kontrollér til sidst for forbudte mønstre, `I/jer/jeres`-form, tankestreger og ændrede fakta. Ved større opgaver bruges `references/quality-checklist.md`.
 
 ## Særligt for hotelkilder og batches
 
@@ -73,7 +74,7 @@ En omskrivning er færdig, når:
 
 - Fakta og metadata er bevaret.
 - Teksten kan læses højt uden at lyde som et katalog.
-- Kunden forstår forskellen på stedet og alternativerne.
+- Kunden forstår stedets klare match og væsentlige kompromiser.
 - Der er ingen `I/jer/jeres` som direkte kundetiltale i kundevendt prosa.
 - Der er ingen em dash eller en dash.
 - Der er ingen forbudte OTA-fraser.

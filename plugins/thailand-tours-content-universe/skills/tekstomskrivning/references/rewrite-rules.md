@@ -23,8 +23,8 @@
 2. Find tekstens egentlige pointe: ro, luksus, strand, familie, byliv, natur, transfer, kombination.
 3. Vælg en konkret åbning.
 4. Byg teksten i logiske sektioner.
-5. Indsæt fravalg og alternativer, hvor det hjælper kunden.
-6. Slut med en klar anbefaling.
+5. Forklar væsentlige kompromiser som konkret forventningsafstemning.
+6. Slut med en klar, positiv anbefaling af hotellet til den rette gæst. Anbefal ikke et andet hotel eller område i en selvstændig hoteltekst.
 7. Kør kvalitetstjek.
 
 ## Hotelkilder og batcharbejde
@@ -53,7 +53,7 @@ Hoteltekster skal typisk have:
 - Én H1 med hotelnavn.
 - To korte introducerende afsnit.
 - 4-6 fede afsnitsoverskrifter i brødteksten.
-- En afsluttende `Vælg {hotelnavn} hvis...`-sektion.
+- En afsluttende `Vælg {hotelnavn} hvis...`-sektion, som samler hotellets stærkeste match og ikke sælger kunden videre.
 - Eventuel adresse- og afstandsblok bevaret uændret.
 
 ## Destinationstekst
