@@ -79,6 +79,26 @@ Hvorfor:
 - Forklarer hvorfor, ikke bare hvem.
 - Hjælper kunden med at spejle egne behov.
 
+## Hotelafslutning uden at sælge kunden væk
+
+Før:
+
+```markdown
+Hvis du vil have restauranter, shopping og aftenliv uden for døren, anbefaler vi et andet hotel længere inde ad Sukhumvit.
+```
+
+Efter:
+
+```markdown
+Vælg 56 Hotel Sukhumvit, hvis du ønsker en moderne og uformel base i Bang Na. Hotellet passer især godt, når dine planer ligger i den sydøstlige del af Bangkok. Du får mest ud af opholdet, når du ser beliggenheden som en del af valget og er indstillet på at bruge taxi eller anden transport til BTS og de centrale bydele.
+```
+
+Hvorfor:
+
+- Bevarer den ærlige forventningsafstemning om transport.
+- Samler hotellets positive match.
+- Sender ikke kunden videre til et andet hotel eller område.
+
 ## Praktisk klimaafsnit
 
 Før:

@@ -11,7 +11,7 @@ Brug denne skabelon til en hoteltekst, når kilden skal omskrives til den aftalt
 
 {Start med en konkret detalje fra hotellet: strand, ankomst, pool, have, byliv, udsigt, lyd, lys eller rytme. Undgå at starte med "Hotellet ligger..." eller "Hotellet tilbyder..."}
 
-{Forklar hotellets rolle: hvem vælger det, hvad er styrken, og hvad skal gæsterne ikke forvente.}
+{Forklar hotellets rolle: hvem vælger det, hvad er styrken, og hvilken forventning skal afstemmes.}
 
 **{Beliggenhed med twist}**
 {Beskriv området konkret. Hvad betyder beliggenheden i praksis for transport, strand, ro, restauranter, shopping eller udflugter?}
@@ -26,10 +26,10 @@ Brug denne skabelon til en hoteltekst, når kilden skal omskrives til den aftalt
 {Beskriv restauranter, morgenmad, barer, madstil og praktisk betydning. Undgå "bredt udvalg".}
 
 **{Familier, par eller honeymoon}**
-{Forklar hvem hotellet passer bedst til. Nævn også hvis det ikke er optimalt for bestemte behov.}
+{Forklar hvem hotellet passer bedst til. Beskriv et væsentligt kompromis konkret, men send ikke kunden videre til et andet hotel.}
 
 **Vælg {Hotelnavn} hvis...**
-...du vil have {hotellets kerne}. Hvis du søger {andet behov}, peger {alternativ destination/hoteltype} ofte en anden vej. Men leder du efter {klar, konkret grund}, er {Hotelnavn} et stærkt valg.
+...du vil have {hotellets kerne}. Hotellet passer især til dig, når {konkret kundebehov}. Du får mest ud af opholdet, når {praktisk forventningsafstemning formuleret positivt}.
 
 {BEVAR ADRESSE, AFSTANDE OG FASTE DATASEKTIONER}
 ```
@@ -44,3 +44,4 @@ Brug denne skabelon til en hoteltekst, når kilden skal omskrives til den aftalt
 - Ingen ændrede facts.
 - Ingen nye faciliteter.
 - Klar `Vælg ... hvis...`-afslutning.
+- Afslutningen anbefaler ikke et andet hotel, område eller produkt.

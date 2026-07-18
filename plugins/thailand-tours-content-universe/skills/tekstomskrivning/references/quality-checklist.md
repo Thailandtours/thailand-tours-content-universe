@@ -30,8 +30,10 @@ Brug denne tjekliste før aflevering af omskrevne rejsetekster. Den er især vig
 - Teksten lyder som rådgivning fra et rejsebureau, ikke som OTA-katalog.
 - Åbningen starter med en konkret detalje, kontrast eller rejseindsigt.
 - Teksten forklarer hvad stedet betyder i praksis for kunden.
-- Teksten hjælper også kunden med at fravælge stedet, hvis det ikke passer.
+- Teksten forklarer væsentlige kompromiser uden at sælge kunden videre til et andet hotel eller område.
 - Superlativer er undgået eller forankret i konkrete forhold.
+- Registeret passer til hoteltypen. Et praktisk byhotel lyder ikke som et tropisk luksusresort.
+- Introen bruger højst tre centrale fakta og er ikke en komprimeret facilitetsliste.
 
 ## 4. Tiltale
 
@@ -50,6 +52,7 @@ Brug denne tjekliste før aflevering af omskrevne rejsetekster. Den er især vig
 
 - Hotellet er ikke batch-omskrevet, hvis det allerede har Thailand Tours-link, medmindre brugeren bad om det.
 - Introen forklarer hotellets klare rolle.
+- Første sætning er ikke den mekaniske formel `{hotelnavn} ligger i...`.
 - Værelsesafsnit forklarer forskel på kategorier uden at opfinde facts.
 - Pool, strand, spa, mad og børn/familie nævnes kun, hvis kilden understøtter det.
 - Faciliteter fra live data er tjekket mod hotellets egen side og Expedia.
@@ -62,6 +65,7 @@ Brug denne tjekliste før aflevering af omskrevne rejsetekster. Den er især vig
 - Filnavne, titler, alt-tekster og beskrivelser er skrevet SEO-klart på dansk.
 - Billedgalleri bruger Expedia/officielle hotel-/rejsebureau-URL'er, og ikke Booking.com eller Trustpilot.
 - Slutningen har en klar `Vælg {hotelnavn} hvis...`-vurdering, når formatet tillader det.
+- Slutningen samler hotellets positive match og anbefaler ikke et andet hotel, område eller produkt.
 
 ## 7. Destinationer og lande
 
@@ -81,6 +85,6 @@ Brug denne tjekliste før aflevering af omskrevne rejsetekster. Den er især vig
 ## 9. Slutkontrol
 
 - Læs første og sidste afsnit højt. De skal lyde som samme brand.
-- Søg efter `I`, `jer`, `jeres`, `—`, `–` og de forbudte fraser.
+- Søg efter `I`, `jer`, `jeres`, `—`, `–`, maskinelle hotelåbninger, salgsnegative afslutninger og de forbudte fraser.
 - Sammenlign kilden og output for faktaændringer.
 - Markér eventuelle åbne verificeringspunkter i stedet for at skjule usikkerhed.

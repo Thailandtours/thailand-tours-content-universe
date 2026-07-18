@@ -26,10 +26,10 @@
 {Afsnit med konkrete køkkener, måltider og stemning.}
 
 **{Konkret sektionstitel om hvem hotellet passer til}**
-{Afsnit med par, familier, honeymoon, ro, byliv eller alternativer.}
+{Afsnit med par, familier, honeymoon, ro, byliv eller en konkret forventningsafstemning.}
 
 **Vælg {Hotelnavn} hvis...**
-...du vil have {kerneoplevelse}. Hvis du søger {andet behov}, er {alternativ} ofte et bedre match. Men leder du efter {hotellets klare styrke}, hører {Hotelnavn} med på den korte liste.
+...du vil have {kerneoplevelse}. Hotellet passer især til dig, når {konkret behov}. Du får mest ud af opholdet, når {praktisk forventningsafstemning formuleret positivt}.
 
 {Adresse- og afstandsblok bevares, hvis den findes}
 ```
@@ -94,3 +94,7 @@ Kort fortalt:
 - Brug ikke Trustpilot eller Booking.com som faktakilder.
 - Spring hotellet over i batch, hvis teksten eller datafelterne allerede indeholder Thailand Tours-link.
 - Skriv kun draft ved API-arbejde, og marker kildekonflikter til review.
+
+## Salgsafslutning
+
+En selvstændig hoteltekst må gerne være ærlig om afstand, transport, strandforhold, støj eller hotellets niveau. Placér den forventningsafstemning i brødteksten. Slut med hotellets positive match for den rette gæst og anbefal ikke et andet hotel, område eller produkt.
